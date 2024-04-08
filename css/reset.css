@@ -1,0 +1,16 @@
+*{ margin: 0; padding: 0;}
+img{ display: block;}
+a{ list-style: none; 
+    color: #fff;
+    text-decoration: none;
+    display: block;
+} 
+body {
+    font-family: 'Montserrat', 'Noto Sans KR',  sans-serif;
+}
+
+.header{
+    margin: 0 auto;
+}
+
+
